@@ -64,7 +64,7 @@ This project contains automated tests for a microservice that handles listing it
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/avito-qa-internship-spring-2025.git
+git clone https://github.com/motasembg/avito-qa-internship-2025.git
 cd avito-qa-internship-spring-2025
 mvn test
 real endpoint: https://qa-internship.avito.com
